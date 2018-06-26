@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:30:22 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Sun Jun 24 17:16:34 2018
+# Process ID: 6984
+# Log file: F:/Vivado/CPUBasys_Mutli/CPUBasys_Mutli.runs/synth_1/showCPU.vds
+# Journal file: F:/Vivado/CPUBasys_Mutli/CPUBasys_Mutli.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source showCPU.tcl

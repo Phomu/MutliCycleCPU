@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:30:22 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Mon Jun 25 00:03:44 2018
+# Process ID: 8240
+# Log file: F:/Vivado/CPUBasys_Mutli/CPUBasys_Mutli.runs/impl_1/showCPU.vdi
+# Journal file: F:/Vivado/CPUBasys_Mutli/CPUBasys_Mutli.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source showCPU.tcl -notrace

@@ -1,0 +1,5 @@
+Running: xsim.dir/TestOfMultiCycleCPU_behav/xsimk.exe -simmode gui -wdb TestOfMultiCycleCPU_behav.wdb -simrunnum 0 -socket 55798
+Design successfully loaded
+Design Loading CPU Usage: 202 ms
+Simulation completed
+Simulation CPU Usage: 6389 ms
